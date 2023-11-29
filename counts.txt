@@ -12,7 +12,3 @@ group B: 190
 group C: 319
 group D: 262
 group E: 140
-<<<<<<< HEAD
-=======
-
->>>>>>> 2be194be064246620e775f3ca7be6eb1fe4b3265
